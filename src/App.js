@@ -4,7 +4,6 @@ import Calculadora from './components/Calculadora'
 const App = () => {
   return (
     <div>
-      <h1>Calculadora mamalona - PWA</h1>
       <hr/>
       <Calculadora/>
     </div>
